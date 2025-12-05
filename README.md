@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @zaeemKhan a DotNetCore MVC Developer...
-- 👀 I’m interested in Building new Web Applications,Web Softwares And Glad To solve Problems In Existing Applications...
-- 🌱 I’m currently learning Asp.Net Core Web Api ...
-- 📫 How to reach me You Can Contact me Through My Email :Khanzaeem010@gmail.com ...
-<!---
-zaeem010/zaeem010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm zaeemKhan 👋
+
+Senior Full-Stack .NET Developer who ships production-grade applications end-to-end.
+
+### 🚀 What I do
+- Backend: C#, .NET 8, Microservices, DDD, CQRS, Event-Driven systems  
+- Databases: MSSQL (T-SQL wizard), Redis, Elasticsearch  
+- Frontend: React, TypeScript, Next.js, Tailwind/Bootstrap, responsive & pixel-perfect UIs  
+- Cloud & DevOps: Azure (App Services, Functions, AKS, DevOps), AWS, Google Cloud, Docker, Kubernetes, CI/CD  
+- AI/LLM: Fine-tuned OpenAI GPT models & Google Gemini for enterprise use cases  
+- Data: High-performance web scraping @ scale with .NET (Scrapy-style pipelines, proxies, anti-bot bypassing)  
+- Infrastructure: Windows VPS, self-hosted solutions when the cloud feels too cozy
+
+Currently building scalable, cloud-native systems and occasionally making LLMs behave in very specific ways.
+
+Open to interesting contracts, collaborations, or just geek talk about architecture and performance.
+
+📬 DMs open | Always hiring great problems to solve
